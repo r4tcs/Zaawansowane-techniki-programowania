@@ -1,7 +1,6 @@
 package com.company;
 
 import java.util.Scanner;
-import java.util.function.DoubleToIntFunction;
 
 public class Main {
 
